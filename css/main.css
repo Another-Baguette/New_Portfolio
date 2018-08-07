@@ -4,6 +4,7 @@ body{
     font-family: verdana;
     color: white;
     text-decoration: none;
+    background: black;
 }
 
 #fullpage{
@@ -20,23 +21,18 @@ body{
 
 
 .section-1{
-    background: black;
 }
 
 .section-2{
-   background: black;
 }
 
 .section-3{
-    background: black;
 }
 
 .section-4{
-    background: black;
 }
 
 .section-5{
-    background: black;
 }
 
 .photo{
